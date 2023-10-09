@@ -1,0 +1,14 @@
+Header background
+https://www.tamut.edu/assets/images/generic-campus-header.jpg
+
+Resource #1
+https://tamut.edu/assets/images/student-photos/students-picture-12.jpg
+
+Resource #2
+https://tamut.edu/assets/images/student-photos/students-fun.jpg
+
+Resource #3
+https://tamut.edu/assets/images/student-photos/students-picture-9.jpg
+
+Congrats page number background
+https://tamut.edu/assets/images/bg-carousel-1.png

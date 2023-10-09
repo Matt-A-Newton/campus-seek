@@ -1,0 +1,91 @@
+body {
+    background-color: #eaeaea;
+}
+
+h1 {
+    font-family: Domine;
+    font-size: calc(1rem + 3vw);
+}
+
+h2 {
+    font-family: Domine;
+    font-size: calc(1rem + 1.5vw);
+}
+
+p {
+    font-family: Domine;
+    font-size: calc(1rem + 0.2vw);
+}
+
+.header {
+    color: #eaeaea;
+    text-align: center;
+    background-image: url(https://www.tamut.edu/assets/images/generic-campus-header.jpg);
+}
+
+.header p {
+    font-size: calc(1rem + 1vw);
+}
+
+.info-header {
+    background-color: #6f2a36;
+    text-align: center;
+    color: #eaeaea;
+}
+
+.congrats-statement {
+    text-align: center;
+    color: #6f2a36;
+}
+
+.flier-number h2 {
+    text-align: center;
+    font-size: calc(1rem + 5vw);
+    color: #6f2a36;
+}
+
+.spacer {
+    margin: 2.5%;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr;
+    row-gap: 2%;
+    margin: 1em;
+}
+
+.informationPannels {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+  
+.imageBox {
+    position: relative;
+    text-align: center;
+    
+}
+
+.imageBox img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.imageBox p {
+    color: #181818;
+}
+
+.home-button {
+    text-align: center;
+    width: 25%;
+    font-family: Domine;
+    font-size: calc(1rem + 1.5vw);
+    border-color: #6f2a36;
+    color: #6f2a36;
+}
+
+.home-button:hover {
+    background-color:#6f2a36;
+    color:#eaeaea;
+}
